@@ -1,4 +1,4 @@
-# ***Unity 2D Combo Attack System***
+# ***Unity 2D Combo Attack Animation system***
 
 ## A Combo Attack Animation system that let you do attack animation when attack button clicked twice.
 ## How is it work ? The answer is down of this sentence.
