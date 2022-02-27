@@ -7,5 +7,8 @@
 ## **And when the cooldown timer finish you can attack again to start first animation and then second animation.**
 
 
+## Note that the animations are starting with triggers in (any state form).
+
+
 ##### By **CyberKnight**
 ##### Discord: **CyberKnight#0086**
